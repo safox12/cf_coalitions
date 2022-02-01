@@ -1,4 +1,4 @@
-# cf_coalitions
+# female_coalitions
 
 
 Title: Weak ties support coalition formation among wild female chimpanzees 
